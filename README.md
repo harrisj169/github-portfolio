@@ -1,4 +1,5 @@
-# github-portfolio
+# Portfolio Summary
+
 # Hi, I'm James Harris
 
 Welcome to my GitHub portfolio! I am a data analytics professional with a Master’s in Data Analytics, where I developed strong expertise in **R, Tableau, Power BI, and Machine Learning**.  
