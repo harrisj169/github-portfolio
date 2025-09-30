@@ -26,7 +26,7 @@ This space is dedicated to showcasing the projects I’ve built through my gradu
 ## Featured Project
 ### Disease Prediction Model (*Capstone Project*)  
 - **Goal:** Develop a predictive model to diagnose diseases based on reported symptoms  
-- **Tools:** R (Decision Tree & Random Forest), Excel for preprocessing  
+- **Tools:** R (Ripper Rule Learner, Decision Tree & Random Forest), Excel for preprocessing  
 - **Dataset:** 3,690 patient records, 131 symptoms, 41 diseases (synthetic Kaggle dataset)  
 - **Results:** Achieved >98% accuracy with Decision Tree and 100% accuracy with Random Forest  
 - **Future Work:** Integration with real-world healthcare data, multi-disease classification, and regional/global trend tracking  
