@@ -31,7 +31,7 @@ This space is dedicated to showcasing the projects I’ve built through my gradu
 - **Results:** Achieved >98% accuracy with Decision Tree and 100% accuracy with Random Forest  
 - **Future Work:** Integration with real-world healthcare data, multi-disease classification, and regional/global trend tracking  
 
-[View Project Repository](#) (insert link when repo is live)
+https://github.com/harrisj169/github-portfolio
 
 ---
 
